@@ -1,0 +1,21 @@
+[submodule "libraries/bootstrap-wysihtml5"]
+	path = libraries/bootstrap-wysihtml5
+	url = https://github.com/jhollingworth/bootstrap-wysihtml5.git
+[submodule "libraries/validation"]
+	path = libraries/validation
+	url = https://github.com/ReactiveRaven/jqBootstrapValidation.git
+[submodule "libraries/file-upload"]
+	path = libraries/file-upload
+	url = https://github.com/blueimp/jQuery-File-Upload.git
+[submodule "libraries/date-range-picker"]
+	path = libraries/date-range-picker
+	url = https://github.com/dangrossman/bootstrap-daterangepicker.git
+[submodule "libraries/growl"]
+	path = libraries/growl
+	url = https://github.com/ifightcrime/bootstrap-growl.git
+[submodule "libraries/markdown"]
+	path = libraries/markdown
+	url = https://github.com/toopay/bootstrap-markdown.git
+[submodule "libraries/chosen"]
+	path = libraries/chosen
+	url = https://github.com/harvesthq/chosen.git
